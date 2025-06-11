@@ -1,0 +1,788 @@
+district,state,work_sector,area_type,distance_from_city,gdp_per_capita,literacy_rate_male,literacy_rate_female,avg_upi_txn_volume
+Nicobar,Andaman Nicobar,LifeStyle,Rural,40.1,85.06,91.74,65.81,47.47
+North Middle Andaman,Andaman Nicobar,LifeStyle,Urban,25.9,120.7,93.1,60.9,40.26
+South Andaman,Andaman Nicobar,Services,Rural,144.8,79.5,96.69,84.71,35.57
+Alluri Sitarama Raju,Andhra Pradesh,LifeStyle,Rural,126.4,72.31,72.47,64.72,56.23
+Anakapalli,Andhra Pradesh,IT and Security,Urban,64.8,91.09,89.39,66.57,43.98
+Anantapur,Andhra Pradesh,Agriculture,Rural,125.5,74.33,96.03,67.73,38.56
+Annamaya,Andhra Pradesh,Construction,Rural,53.9,84.93,86.25,74.71,50.92
+Bapatla,Andhra Pradesh,Construction,Rural,197.7,86.87,81.67,91.48,53.94
+Chittoor,Andhra Pradesh,IT and Security,Urban,130.5,90.61,79.28,88.02,49.16
+East Godavari,Andhra Pradesh,Agriculture,Urban,190.0,95.71,72.62,85.95,8.79
+Eluru,Andhra Pradesh,LifeStyle,Rural,52.2,109.58,78.63,82.09,31.38
+Guntur,Andhra Pradesh,Agriculture,Rural,172.6,89.86,84.94,74.3,51.3
+Kadapa,Andhra Pradesh,Food,Rural,50.9,93.87,87.59,75.62,35.3
+Kakinada,Andhra Pradesh,Services,Urban,5.7,98.81,75.49,68.49,56.16
+Konaseema,Andhra Pradesh,LifeStyle,Rural,194.9,73.12,73.32,93.69,70.13
+Krishna,Andhra Pradesh,Manufacturing,Urban,130.9,85.15,85.88,86.95,68.14
+Kurnool,Andhra Pradesh,Agriculture,Urban,95.2,47.55,88.07,60.38,47.24
+Manyam,Andhra Pradesh,Food,Rural,77.2,96.02,88.47,64.36,43.25
+N T Rama Rao,Andhra Pradesh,Medical,Rural,116.3,88.14,77.14,66.12,45.06
+Nandyal,Andhra Pradesh,Food,Urban,52.4,70.95,88.75,60.76,68.12
+Nellore,Andhra Pradesh,Medical,Rural,41.4,50.58,82.79,71.9,50.77
+Palnadu,Andhra Pradesh,IT and Security,Urban,143.6,72.97,78.37,82.07,49.19
+Prakasam,Andhra Pradesh,Agriculture,Rural,168.2,67.47,78.11,86.9,41.38
+Sri Balaji,Andhra Pradesh,Agriculture,Rural,157.7,79.22,86.28,76.31,38.63
+Sri Satya Sai,Andhra Pradesh,Food,Rural,18.1,76.2,71.51,71.36,56.13
+Srikakulam,Andhra Pradesh,Construction,Urban,39.7,23.92,87.9,83.88,51.34
+Visakhapatnam,Andhra Pradesh,IT and Security,Rural,71.6,112.81,82.63,72.51,61.38
+Vizianagaram,Andhra Pradesh,Manufacturing,Rural,171.2,68.47,93.95,81.67,57.08
+West Godavari,Andhra Pradesh,Manufacturing,Urban,193.5,80.3,92.22,80.21,76.73
+Anjaw,Arunachal Pradesh,Agriculture,Rural,133.6,73.89,86.82,78.72,32.22
+Bichom,Arunachal Pradesh,Medical,Rural,106.3,69.66,73.13,85.91,34.17
+Changlang,Arunachal Pradesh,Construction,Urban,151.1,101.96,83.37,91.51,42.75
+Dibang Valley,Arunachal Pradesh,Food,Urban,25.4,53.04,86.92,91.56,36.16
+East Kameng,Arunachal Pradesh,Agriculture,Urban,190.9,61.74,98.01,83.93,50.44
+East Siang,Arunachal Pradesh,IT and Security,Urban,41.6,92.87,77.12,68.92,40.38
+Kamle,Arunachal Pradesh,Manufacturing,Rural,49.5,41.72,72.95,74.39,44.94
+Keyi Panyor,Arunachal Pradesh,Manufacturing,Rural,107.6,75.79,75.22,60.53,41.62
+Kra Daadi,Arunachal Pradesh,Construction,Rural,54.2,77.17,72.6,89.25,17.74
+Kurung Kumey,Arunachal Pradesh,Food,Rural,181.5,87.98,71.34,71.93,55.66
+Lepa Rada,Arunachal Pradesh,Construction,Urban,137.7,102.88,72.77,73.57,63.04
+Lohit,Arunachal Pradesh,Services,Rural,107.2,64.57,91.88,72.78,27.75
+Longding,Arunachal Pradesh,Manufacturing,Urban,67.6,89.54,72.9,86.64,48.93
+Lower Dibang Valley,Arunachal Pradesh,Services,Rural,149.0,95.39,70.45,72.98,42.89
+Lower Siang,Arunachal Pradesh,IT and Security,Urban,45.9,49.0,96.54,82.32,51.28
+Lower Subansiri,Arunachal Pradesh,IT and Security,Rural,126.6,82.48,86.81,66.23,30.12
+Namsai,Arunachal Pradesh,Services,Urban,120.4,65.35,83.87,63.82,51.61
+Pakke Kessang,Arunachal Pradesh,Services,Rural,100.0,113.48,87.89,68.23,36.85
+Papum Pare,Arunachal Pradesh,Medical,Rural,199.1,73.45,71.42,74.07,56.07
+Shi Yomi,Arunachal Pradesh,Medical,Rural,32.7,48.9,96.68,79.17,36.06
+Siang,Arunachal Pradesh,Food,Rural,61.8,92.33,96.43,73.77,74.11
+Tawang,Arunachal Pradesh,Food,Rural,39.5,43.78,94.01,80.64,54.66
+Tirap,Arunachal Pradesh,Services,Rural,77.5,94.9,97.56,90.33,34.99
+Upper Siang,Arunachal Pradesh,IT and Security,Rural,172.6,89.96,97.95,94.69,38.88
+Upper Subansiri,Arunachal Pradesh,Medical,Rural,122.1,90.92,80.37,80.71,70.26
+West Kameng,Arunachal Pradesh,IT and Security,Rural,34.8,54.91,76.01,81.5,42.35
+West Siang,Arunachal Pradesh,Medical,Urban,97.1,77.87,85.62,77.33,68.37
+Bajali,Assam,Manufacturing,Rural,60.7,42.9,89.77,72.42,34.24
+Baksa,Assam,Food,Rural,143.6,82.58,72.4,69.68,65.52
+Barpeta,Assam,Food,Rural,64.1,82.37,85.29,71.91,44.7
+Biswanath,Assam,IT and Security,Rural,39.2,74.68,75.61,67.89,55.41
+Bongaigaon,Assam,IT and Security,Rural,150.6,84.06,83.78,81.62,77.51
+Cachar,Assam,Manufacturing,Rural,116.1,84.63,87.52,65.06,41.5
+Charaideo,Assam,Medical,Rural,124.8,123.17,99.67,81.97,70.5
+Chirang,Assam,Food,Rural,64.4,73.68,93.0,72.23,47.59
+Darrang,Assam,LifeStyle,Rural,8.8,113.46,83.98,70.38,44.84
+Dhemaji,Assam,IT and Security,Urban,194.2,98.06,79.21,85.56,55.86
+Dhubri,Assam,Agriculture,Urban,196.8,79.14,89.93,65.86,84.42
+Dibrugarh,Assam,Medical,Rural,76.3,86.03,80.14,65.24,62.58
+Dima Hasao,Assam,LifeStyle,Rural,25.6,76.1,89.33,81.97,70.87
+Goalpara,Assam,Agriculture,Rural,128.1,95.56,82.87,71.22,47.24
+Golaghat,Assam,Food,Rural,199.5,84.28,70.04,88.39,90.69
+Hailakandi,Assam,Agriculture,Rural,5.8,66.96,78.64,75.64,47.42
+Hojai,Assam,Medical,Urban,155.3,122.15,91.03,65.5,33.33
+Jorhat,Assam,Services,Rural,184.7,57.96,99.9,86.93,52.25
+Kamrup Metropolitan,Assam,Agriculture,Rural,176.8,90.49,74.02,86.03,69.53
+Kamrup Rural,Assam,LifeStyle,Urban,173.9,78.67,84.08,90.84,58.11
+Karbi Anglong,Assam,Medical,Rural,164.9,79.87,96.05,62.89,39.57
+Karimganj,Assam,Manufacturing,Rural,167.5,121.3,81.84,76.14,62.01
+Kokrajhar,Assam,Medical,Urban,93.5,93.52,72.12,80.4,42.81
+Lakhimpur,Assam,Food,Rural,110.5,82.17,96.24,90.18,53.64
+Majuli,Assam,Food,Rural,182.5,75.85,82.19,91.75,43.25
+Morigaon,Assam,Services,Rural,21.1,74.14,98.29,70.51,49.19
+Nagaon,Assam,Manufacturing,Rural,120.6,76.19,87.95,89.55,61.5
+Nalbari,Assam,Agriculture,Urban,82.9,95.63,73.65,63.4,40.48
+Sivasagar,Assam,Services,Urban,88.9,94.89,77.17,81.1,37.51
+Sonitpur,Assam,Food,Rural,47.9,104.73,81.4,93.8,22.86
+South Salmara-Mankachar,Assam,IT and Security,Rural,92.7,61.7,95.02,92.81,56.59
+Tamulpur,Assam,Agriculture,Urban,40.0,52.79,79.04,88.79,61.17
+Tinsukia,Assam,Construction,Urban,138.6,51.47,80.05,92.56,36.65
+Udalguri,Assam,Services,Urban,116.3,55.46,85.86,94.74,52.74
+West Karbi Anglong,Assam,Agriculture,Urban,151.0,83.74,96.49,77.06,58.54
+Araria,Bihar,Manufacturing,Rural,176.5,66.09,74.09,92.63,56.97
+Arwal,Bihar,Medical,Urban,134.7,78.24,74.53,74.51,45.78
+Aurangabad,Bihar,LifeStyle,Rural,132.4,50.83,92.39,83.64,52.42
+Banka,Bihar,LifeStyle,Rural,166.1,96.76,92.72,75.33,47.77
+Begusarai,Bihar,IT and Security,Rural,125.3,74.03,88.13,81.81,34.89
+Bhagalpur,Bihar,IT and Security,Rural,38.9,67.27,80.8,86.12,40.61
+Bhojpur,Bihar,IT and Security,Rural,43.3,76.41,81.56,83.95,55.74
+Buxar,Bihar,Medical,Rural,195.9,80.21,92.32,76.43,53.82
+Darbhanga,Bihar,Construction,Rural,122.5,87.18,83.35,73.51,47.75
+East Champaran,Bihar,LifeStyle,Urban,147.9,82.66,72.53,88.29,43.96
+Gaya,Bihar,Construction,Rural,142.3,82.79,77.86,65.78,56.46
+Gopalganj,Bihar,Construction,Rural,76.7,61.75,75.72,64.23,60.11
+Jamui,Bihar,Construction,Rural,36.9,68.99,80.15,64.88,46.85
+Jehanabad,Bihar,LifeStyle,Urban,25.3,76.07,72.79,78.58,56.77
+Kaimur,Bihar,IT and Security,Rural,112.3,57.07,99.04,87.34,40.3
+Katihar,Bihar,Construction,Rural,175.8,52.44,95.05,80.44,56.12
+Khagaria,Bihar,LifeStyle,Rural,185.9,62.75,83.43,79.84,57.24
+Kishanganj,Bihar,Agriculture,Rural,130.2,50.04,89.69,65.9,43.43
+Lakhisarai,Bihar,IT and Security,Urban,178.2,88.91,72.86,88.19,64.86
+Madhepura,Bihar,IT and Security,Urban,146.8,64.68,81.32,77.95,58.2
+Madhubani,Bihar,Manufacturing,Rural,123.0,64.17,86.18,80.54,26.05
+Munger,Bihar,IT and Security,Rural,173.4,74.31,70.5,85.13,99.99
+Muzaffarpur,Bihar,Food,Rural,46.9,83.76,96.28,81.39,59.77
+Nalanda,Bihar,Manufacturing,Urban,36.9,53.45,79.06,71.85,70.66
+Nawada,Bihar,Services,Urban,71.3,103.01,82.46,65.44,70.19
+Patna,Bihar,Agriculture,Urban,159.0,75.83,84.18,73.43,28.83
+Purnia,Bihar,Agriculture,Rural,27.1,69.32,73.37,73.5,57.85
+Rohtas,Bihar,Food,Rural,167.2,61.87,90.97,90.64,35.47
+Saharsa,Bihar,Manufacturing,Urban,101.6,150.83,80.89,80.76,71.18
+Samastipur,Bihar,LifeStyle,Rural,177.0,107.11,97.31,87.71,50.04
+Saran,Bihar,Medical,Urban,110.1,60.48,93.74,94.19,50.56
+Sheikhpura,Bihar,Medical,Rural,157.5,60.55,98.4,87.89,41.01
+Sheohar,Bihar,Medical,Urban,102.9,66.79,99.75,86.74,64.39
+Sitamarhi,Bihar,Manufacturing,Urban,125.8,81.8,80.14,62.79,63.06
+Siwan,Bihar,LifeStyle,Rural,40.7,104.77,71.17,83.21,44.6
+Supaul,Bihar,IT and Security,Rural,74.3,97.11,93.5,83.56,35.78
+Vaishali,Bihar,Medical,Rural,132.1,94.23,80.61,72.94,43.68
+West Champaran,Bihar,Services,Rural,69.9,71.91,94.96,73.99,62.13
+Chandigarh,Chandigarh,IT and Security,Urban,74.8,54.77,99.35,66.83,63.92
+Balod,Chhattisgarh,IT and Security,Urban,108.4,71.73,96.79,77.44,55.61
+Baloda Bazar,Chhattisgarh,LifeStyle,Rural,189.3,105.71,92.35,79.35,68.86
+Balrampur,Chhattisgarh,Construction,Rural,99.1,99.48,90.43,83.16,49.09
+Bastar,Chhattisgarh,Food,Rural,127.7,51.39,96.1,68.27,44.46
+Bemetara,Chhattisgarh,Services,Rural,112.5,103.06,81.08,62.5,25.97
+Bijapur,Chhattisgarh,Agriculture,Urban,89.6,110.96,79.27,77.58,46.94
+Bilaspur,Chhattisgarh,Construction,Urban,85.7,75.95,81.43,68.28,69.84
+Dantewada,Chhattisgarh,LifeStyle,Urban,191.7,76.65,96.81,92.66,48.65
+Dhamtari,Chhattisgarh,Agriculture,Rural,21.7,81.35,79.43,70.37,41.29
+Durg,Chhattisgarh,Construction,Rural,97.1,100.1,75.21,63.77,36.23
+Gariaband,Chhattisgarh,Construction,Urban,53.4,60.8,87.36,80.34,79.3
+Gaurela Pendra Marwahi,Chhattisgarh,LifeStyle,Urban,22.4,67.87,74.81,87.09,71.19
+Janjgir Champa,Chhattisgarh,Food,Urban,78.9,90.42,91.91,69.51,52.01
+Jashpur,Chhattisgarh,Agriculture,Rural,73.9,60.98,96.79,86.85,65.67
+Kabirdham,Chhattisgarh,Medical,Rural,83.6,95.71,94.26,65.81,56.11
+Kanker,Chhattisgarh,Agriculture,Urban,8.9,63.01,74.58,62.97,69.62
+Khairagarh,Chhattisgarh,LifeStyle,Rural,142.2,131.31,74.78,70.19,55.85
+Kondagaon,Chhattisgarh,LifeStyle,Urban,65.4,77.45,81.33,65.03,62.09
+Korba,Chhattisgarh,Food,Rural,189.6,92.89,97.08,80.86,69.99
+Koriya,Chhattisgarh,Construction,Urban,141.9,72.82,75.22,85.14,58.3
+Mahasamund,Chhattisgarh,Agriculture,Urban,27.8,73.57,72.45,61.64,40.91
+Manendragarh,Chhattisgarh,Medical,Urban,107.1,67.65,86.17,69.16,52.33
+Mohla Manpur,Chhattisgarh,Food,Urban,125.5,43.59,80.96,64.34,95.12
+Mungeli,Chhattisgarh,Food,Urban,95.5,92.54,87.49,77.77,68.18
+Narayanpur,Chhattisgarh,LifeStyle,Urban,73.6,49.37,86.88,62.98,45.5
+Raigarh,Chhattisgarh,Agriculture,Rural,5.7,104.82,94.66,90.35,44.25
+Raipur,Chhattisgarh,Food,Urban,121.9,84.84,87.23,83.73,66.34
+Rajnandgaon,Chhattisgarh,Agriculture,Urban,177.4,84.32,89.38,68.8,22.94
+Sakti,Chhattisgarh,Construction,Urban,73.7,76.34,97.23,76.33,43.07
+Sarangarh Bilaigarh,Chhattisgarh,Manufacturing,Urban,74.9,74.61,83.97,78.46,60.81
+Sukma,Chhattisgarh,Construction,Urban,106.9,82.73,96.16,60.96,47.7
+Surajpur,Chhattisgarh,Construction,Urban,184.3,98.57,93.45,88.89,64.02
+Surguja,Chhattisgarh,IT and Security,Urban,155.8,74.82,88.35,89.79,65.72
+Dadra and Nagar Haveli,Dadra Nagar Haveli and Daman and Diu,Food,Rural,46.5,112.45,74.65,87.03,49.68
+Daman,Dadra Nagar Haveli and Daman and Diu,Manufacturing,Rural,122.6,77.53,72.53,61.95,55.62
+Diu,Dadra Nagar Haveli and Daman and Diu,Services,Urban,104.7,87.29,94.56,76.35,31.32
+Central Delhi,Delhi,Medical,Urban,108.7,53.64,91.09,89.39,66.1
+East Delhi,Delhi,Food,Urban,111.4,93.78,79.9,80.5,34.81
+New Delhi,Delhi,Construction,Rural,161.2,102.32,88.8,92.32,28.91
+North Delhi,Delhi,Manufacturing,Rural,86.7,110.51,71.33,87.04,34.09
+North East Delhi,Delhi,Manufacturing,Rural,7.2,110.69,87.14,75.06,1.63
+North West Delhi,Delhi,Construction,Urban,58.8,90.13,71.4,80.74,28.34
+Shahdara,Delhi,Construction,Urban,95.5,43.3,75.56,62.32,44.89
+South Delhi,Delhi,LifeStyle,Rural,68.9,103.17,70.18,82.12,29.9
+South East Delhi,Delhi,IT and Security,Urban,144.7,100.53,77.3,93.07,79.67
+South West Delhi,Delhi,LifeStyle,Urban,34.2,91.41,87.57,69.47,72.32
+West Delhi,Delhi,Agriculture,Rural,194.7,97.55,91.1,76.22,68.13
+North Goa,Goa,Construction,Rural,139.4,79.72,95.07,73.88,56.39
+South Goa,Goa,Agriculture,Rural,182.6,73.79,96.76,80.41,37.26
+Ahmedabad,Gujarat,Food,Rural,128.8,53.22,98.51,81.91,84.57
+Amreli,Gujarat,Food,Rural,61.8,92.56,92.47,63.19,55.2
+Anand,Gujarat,Services,Urban,36.2,77.97,89.22,87.48,24.26
+Aravalli,Gujarat,LifeStyle,Urban,161.1,69.34,75.27,79.63,54.09
+Banaskantha,Gujarat,Construction,Rural,197.6,89.73,74.82,75.42,48.49
+Bharuch,Gujarat,Construction,Rural,40.6,100.27,70.45,72.65,47.87
+Bhavnagar,Gujarat,Services,Urban,114.1,72.67,89.93,91.15,46.28
+Botad,Gujarat,Construction,Urban,32.1,96.69,80.27,88.9,34.08
+Chhota Udaipur,Gujarat,LifeStyle,Rural,181.9,67.07,83.66,81.24,59.03
+Dahod,Gujarat,Manufacturing,Rural,147.2,45.72,98.95,76.7,75.5
+Dang,Gujarat,Food,Urban,106.7,104.57,77.01,68.97,18.45
+Devbhoomi Dwarka,Gujarat,Food,Rural,188.6,54.42,81.64,87.13,72.68
+Gandhinagar,Gujarat,Medical,Rural,177.0,92.89,72.21,69.87,64.42
+Gir Somnath,Gujarat,IT and Security,Rural,63.5,44.22,93.61,85.42,63.25
+Jamnagar,Gujarat,LifeStyle,Rural,173.0,73.26,90.74,78.25,73.89
+Junagadh,Gujarat,Medical,Rural,11.6,83.16,71.84,87.89,53.33
+Kheda,Gujarat,Food,Urban,106.7,81.71,93.63,78.77,67.3
+Kutch,Gujarat,Agriculture,Urban,175.5,66.03,73.74,80.83,40.94
+Mahisagar,Gujarat,Construction,Rural,5.6,95.76,81.22,85.75,49.9
+Mehsana,Gujarat,Food,Urban,55.7,94.66,95.1,65.64,45.35
+Morbi,Gujarat,Medical,Rural,149.3,70.07,99.69,73.27,54.02
+Narmada,Gujarat,IT and Security,Urban,55.8,88.07,92.14,86.27,48.41
+Navsari,Gujarat,Agriculture,Urban,133.6,95.27,94.46,68.28,42.64
+Panchmahal,Gujarat,Medical,Urban,19.8,86.37,95.2,85.61,73.73
+Patan,Gujarat,Food,Rural,134.2,75.21,84.17,73.51,39.89
+Porbandar,Gujarat,Services,Rural,168.0,126.63,83.84,91.02,42.66
+Rajkot,Gujarat,Manufacturing,Urban,148.4,90.3,99.59,68.77,68.51
+Sabarkantha,Gujarat,LifeStyle,Rural,58.2,67.79,98.54,72.03,49.21
+Surat,Gujarat,IT and Security,Rural,74.7,136.71,88.3,83.75,54.15
+Surendranagar,Gujarat,Food,Urban,62.0,118.11,80.46,83.77,72.07
+Tapi,Gujarat,Construction,Urban,177.6,41.51,86.41,72.34,52.93
+Vadodara,Gujarat,LifeStyle,Urban,81.7,78.8,91.74,73.71,78.63
+Valsad,Gujarat,LifeStyle,Urban,185.2,66.93,99.88,86.87,63.89
+Ambala,Haryana,Construction,Rural,124.4,60.49,71.31,70.21,66.29
+Bhiwani,Haryana,IT and Security,Rural,28.6,90.94,88.64,77.63,67.38
+Charkhi Dadri,Haryana,Construction,Urban,150.0,103.17,98.76,76.24,45.7
+Faridabad,Haryana,Agriculture,Rural,52.4,80.66,72.8,71.49,25.94
+Fatehabad,Haryana,Food,Rural,76.4,78.0,92.28,61.54,51.58
+Gurugram,Haryana,IT and Security,Rural,38.1,112.87,83.16,67.4,43.31
+Hisar,Haryana,Food,Rural,177.2,72.24,96.22,93.85,58.67
+Jhajjar,Haryana,IT and Security,Rural,73.3,38.42,89.83,86.16,35.27
+Jind,Haryana,IT and Security,Rural,179.2,94.02,99.43,63.61,42.82
+Kaithal,Haryana,LifeStyle,Rural,182.6,104.06,92.83,83.29,73.27
+Karnal,Haryana,IT and Security,Rural,91.0,78.4,76.54,78.56,67.89
+Kurukshetra,Haryana,Manufacturing,Urban,186.0,66.38,77.89,83.43,71.59
+Mahendragarh,Haryana,IT and Security,Rural,55.3,90.7,74.5,68.08,34.84
+Nuh,Haryana,Construction,Urban,155.3,97.44,84.52,65.37,44.2
+Palwal,Haryana,Food,Rural,154.4,37.2,73.19,81.11,27.23
+Panchkula,Haryana,Medical,Rural,119.7,61.48,73.91,80.37,79.66
+Panipat,Haryana,Medical,Rural,159.6,107.01,80.75,85.56,30.24
+Rewari,Haryana,Services,Urban,82.6,71.17,77.7,78.53,39.85
+Rohtak,Haryana,Manufacturing,Urban,21.3,127.78,83.37,84.36,63.67
+Sirsa,Haryana,Agriculture,Rural,134.3,79.07,94.19,73.72,75.51
+Sonipat,Haryana,Agriculture,Urban,138.4,84.68,89.41,93.37,18.32
+Yamunanagar,Haryana,IT and Security,Rural,74.7,72.22,85.4,93.23,73.4
+Bilaspur,Himachal Pradesh,Food,Rural,80.0,88.55,98.17,77.72,55.14
+Chamba,Himachal Pradesh,Manufacturing,Rural,57.1,75.74,91.52,66.71,46.06
+Hamirpur,Himachal Pradesh,Food,Rural,175.7,115.08,80.57,78.51,42.04
+Kangra,Himachal Pradesh,Medical,Rural,96.2,96.53,71.74,81.64,21.72
+Kinnaur,Himachal Pradesh,Construction,Rural,91.7,116.22,78.49,70.59,66.86
+Kullu,Himachal Pradesh,Food,Urban,22.6,65.29,74.38,66.98,50.19
+Lahaul Spiti,Himachal Pradesh,Food,Rural,53.3,52.18,74.98,70.59,60.21
+Mandi,Himachal Pradesh,Construction,Urban,92.5,97.29,76.75,62.02,31.15
+Shimla,Himachal Pradesh,Manufacturing,Rural,154.4,28.18,99.93,90.6,42.72
+Sirmaur,Himachal Pradesh,Services,Urban,159.1,77.7,92.13,68.51,38.27
+Solan,Himachal Pradesh,Construction,Rural,9.1,93.67,97.95,84.58,65.79
+Una,Himachal Pradesh,Construction,Urban,40.7,63.5,70.76,85.44,37.26
+Anantnag,Jammu Kashmir,Medical,Rural,71.0,82.61,94.03,78.93,75.45
+Bandipora,Jammu Kashmir,Food,Rural,174.6,67.03,77.56,60.05,30.59
+Baramulla,Jammu Kashmir,IT and Security,Rural,44.2,78.35,87.7,94.48,59.8
+Budgam,Jammu Kashmir,Food,Rural,82.9,54.7,77.41,61.58,53.98
+Doda,Jammu Kashmir,Services,Urban,94.3,70.84,91.24,67.99,51.57
+Ganderbal,Jammu Kashmir,Agriculture,Urban,125.6,73.21,86.49,73.06,54.87
+Jammu,Jammu Kashmir,Agriculture,Urban,181.1,85.82,78.24,92.92,37.17
+Kathua,Jammu Kashmir,Food,Rural,178.2,59.73,84.44,94.09,73.9
+Kishtwar,Jammu Kashmir,Agriculture,Urban,183.7,36.42,80.11,62.31,25.58
+Kulgam,Jammu Kashmir,Services,Rural,165.5,86.87,87.7,72.61,57.36
+Kupwara,Jammu Kashmir,LifeStyle,Urban,69.7,90.37,91.52,87.2,69.07
+Poonch,Jammu Kashmir,Services,Rural,148.1,86.43,71.14,77.57,51.73
+Pulwama,Jammu Kashmir,IT and Security,Urban,30.6,92.46,91.59,92.66,43.39
+Rajouri,Jammu Kashmir,Services,Rural,101.2,78.45,97.37,86.01,72.34
+Ramban,Jammu Kashmir,Agriculture,Rural,166.1,116.11,84.73,72.06,35.65
+Reasi,Jammu Kashmir,LifeStyle,Rural,63.7,80.63,80.06,81.01,63.56
+Samba,Jammu Kashmir,Manufacturing,Rural,100.8,57.16,70.76,63.37,28.39
+Shopian,Jammu Kashmir,Agriculture,Urban,64.8,115.21,76.47,79.45,58.99
+Srinagar,Jammu Kashmir,Construction,Rural,21.2,118.92,72.54,89.84,44.21
+Udhampur,Jammu Kashmir,Construction,Rural,108.7,75.79,74.8,62.72,40.44
+Bokaro,Jharkhand,Services,Rural,196.7,92.15,99.08,81.84,30.16
+Chatra,Jharkhand,Manufacturing,Rural,102.8,83.12,92.44,62.65,46.83
+Deoghar,Jharkhand,Services,Rural,144.3,79.56,71.69,87.97,59.3
+Dhanbad,Jharkhand,IT and Security,Rural,81.3,72.72,70.42,71.5,63.43
+Dumka,Jharkhand,LifeStyle,Rural,5.9,93.82,79.37,67.7,69.6
+East Singhbhum,Jharkhand,Construction,Rural,145.6,94.28,73.56,62.9,34.77
+Garhwa,Jharkhand,Medical,Urban,103.0,76.32,93.05,72.34,68.7
+Giridih,Jharkhand,LifeStyle,Rural,130.0,105.87,77.74,76.94,64.13
+Godda,Jharkhand,Medical,Urban,133.6,67.9,81.9,60.79,65.38
+Gumla,Jharkhand,IT and Security,Rural,72.1,83.08,83.02,82.75,52.06
+Hazaribagh,Jharkhand,Manufacturing,Rural,37.1,95.63,91.98,73.97,45.68
+Jamtara,Jharkhand,Manufacturing,Urban,134.7,72.1,82.22,66.16,77.84
+Khunti,Jharkhand,IT and Security,Rural,189.7,78.28,93.83,79.32,51.87
+Koderma,Jharkhand,Manufacturing,Rural,178.3,72.78,75.44,70.03,12.86
+Latehar,Jharkhand,IT and Security,Rural,115.8,69.19,79.94,76.67,55.03
+Lohardaga,Jharkhand,LifeStyle,Urban,18.8,72.33,77.69,72.55,64.92
+Pakur,Jharkhand,Medical,Rural,6.3,84.4,87.39,73.49,14.7
+Palamu,Jharkhand,IT and Security,Rural,93.6,99.22,89.57,91.95,94.3
+Ramgarh,Jharkhand,Manufacturing,Urban,45.5,65.22,71.49,67.88,23.01
+Ranchi,Jharkhand,LifeStyle,Rural,107.3,59.21,93.33,79.85,49.09
+Sahebganj,Jharkhand,LifeStyle,Rural,90.0,70.14,92.71,89.8,49.67
+Seraikela Kharsawan,Jharkhand,IT and Security,Rural,162.0,92.85,83.02,83.77,57.96
+Simdega,Jharkhand,IT and Security,Rural,133.6,66.02,72.53,93.11,39.1
+West Singhbhum,Jharkhand,Services,Rural,66.3,105.42,70.78,70.0,54.68
+Bagalkot,Karnataka,Services,Rural,22.0,98.14,86.85,87.96,35.5
+Bangalore Rural,Karnataka,LifeStyle,Urban,183.9,73.61,94.23,65.88,48.7
+Bangalore Urban,Karnataka,Agriculture,Urban,112.0,92.08,81.26,63.88,49.8
+Belgaum,Karnataka,LifeStyle,Rural,7.2,42.58,96.54,61.98,47.7
+Bellary,Karnataka,Food,Rural,22.3,71.7,98.66,68.93,70.2
+Bidar,Karnataka,Medical,Rural,111.8,93.13,77.49,78.96,53.94
+Chamarajanagar,Karnataka,LifeStyle,Rural,128.6,87.31,97.54,62.47,76.57
+Chikkaballapur,Karnataka,Construction,Rural,129.4,72.51,99.91,61.48,48.49
+Chikkamagaluru,Karnataka,Medical,Urban,184.0,92.44,71.49,61.12,51.99
+Chitradurga,Karnataka,Agriculture,Rural,50.7,98.72,91.54,94.79,60.97
+Dakshina Kannada,Karnataka,Agriculture,Urban,15.0,84.04,91.22,94.44,29.46
+Davanagere,Karnataka,Services,Rural,89.3,93.21,87.58,91.07,44.46
+Dharwad,Karnataka,IT and Security,Rural,50.5,90.35,75.95,72.17,53.22
+Gadag,Karnataka,IT and Security,Urban,181.0,74.73,96.59,61.92,53.42
+Hassan,Karnataka,Medical,Urban,141.7,47.18,84.87,78.14,48.78
+Haveri,Karnataka,LifeStyle,Urban,64.4,33.18,79.68,77.94,61.37
+Kalaburagi,Karnataka,Construction,Rural,149.9,92.52,89.3,74.3,37.37
+Kodagu,Karnataka,IT and Security,Rural,35.0,69.11,90.31,84.95,38.45
+Kolar,Karnataka,Agriculture,Rural,97.4,91.16,77.38,90.88,68.0
+Koppal,Karnataka,IT and Security,Rural,156.9,76.45,91.45,68.71,49.16
+Mandya,Karnataka,Food,Rural,182.3,83.49,72.25,64.32,38.98
+Mysore,Karnataka,Services,Rural,77.9,95.88,85.73,73.04,62.87
+Raichur,Karnataka,Agriculture,Rural,114.8,84.58,74.48,85.95,30.7
+Ramanagara,Karnataka,LifeStyle,Rural,35.4,103.67,91.19,87.53,47.02
+Shimoga,Karnataka,Agriculture,Urban,163.5,105.1,93.19,82.11,49.02
+Tumkur,Karnataka,Construction,Rural,87.0,71.68,78.13,64.73,52.91
+Udupi,Karnataka,IT and Security,Rural,9.3,102.1,95.78,74.78,51.0
+Uttara Kannada,Karnataka,Services,Rural,127.7,57.34,77.12,92.63,80.13
+Vijayanagara,Karnataka,Manufacturing,Rural,194.0,62.6,93.19,75.45,33.15
+Vijayapura,Karnataka,Agriculture,Rural,150.7,84.58,81.34,64.86,36.43
+Yadgir,Karnataka,Services,Rural,156.6,63.43,99.92,63.43,52.54
+Alappuzha,Kerala,Medical,Rural,46.5,87.23,82.1,86.09,28.81
+Ernakulam,Kerala,Services,Rural,186.8,52.04,71.3,69.07,64.35
+Idukki,Kerala,Food,Urban,166.8,67.73,83.8,72.03,73.94
+Kannur,Kerala,Construction,Urban,135.6,78.44,74.32,63.36,62.29
+Kasaragod,Kerala,Manufacturing,Urban,181.3,72.08,77.81,85.72,50.67
+Kollam,Kerala,Services,Rural,169.9,79.58,83.12,77.69,64.78
+Kottayam,Kerala,IT and Security,Urban,179.6,63.45,93.53,61.63,48.57
+Kozhikode,Kerala,Food,Rural,13.9,50.08,88.31,71.5,31.26
+Malappuram,Kerala,Medical,Rural,136.2,74.52,85.73,91.97,54.39
+Palakkad,Kerala,Medical,Rural,75.4,89.77,78.53,67.31,37.98
+Pathanamthitta,Kerala,Construction,Rural,177.4,93.93,94.35,74.36,48.45
+Thiruvananthapuram,Kerala,Construction,Rural,164.9,87.96,80.55,62.18,38.34
+Thrissur,Kerala,IT and Security,Rural,194.7,34.0,82.33,76.12,44.02
+Wayanad,Kerala,LifeStyle,Rural,156.8,108.69,74.1,74.22,44.45
+Kargil,Ladakh,Agriculture,Rural,73.0,108.83,99.7,77.38,76.88
+Leh,Ladakh,IT and Security,Urban,43.1,60.18,74.8,64.27,70.82
+Lakshadweep,Lakshadweep,Food,Rural,25.8,67.15,77.23,83.96,43.77
+Agar Malwa,Madhya Pradesh,Food,Urban,20.1,89.27,99.44,81.25,68.68
+Alirajpur,Madhya Pradesh,Services,Rural,194.4,70.84,91.76,77.79,32.87
+Anuppur,Madhya Pradesh,Agriculture,Rural,93.3,71.46,71.59,62.69,45.03
+Ashoknagar,Madhya Pradesh,Food,Rural,32.5,104.76,98.69,85.71,14.27
+Balaghat,Madhya Pradesh,Agriculture,Rural,20.6,86.73,72.1,65.76,32.12
+Barwani,Madhya Pradesh,IT and Security,Rural,22.3,112.02,88.97,68.94,18.35
+Betul,Madhya Pradesh,Services,Rural,178.7,97.17,80.79,77.75,79.13
+Bhind,Madhya Pradesh,Services,Urban,83.4,45.26,91.61,72.51,68.19
+Bhopal,Madhya Pradesh,LifeStyle,Rural,131.2,75.44,93.52,73.51,34.91
+Burhanpur,Madhya Pradesh,LifeStyle,Urban,67.7,75.18,96.91,61.14,59.75
+Chhatarpur,Madhya Pradesh,Medical,Urban,7.4,126.04,80.68,79.28,69.93
+Chhindwara,Madhya Pradesh,Construction,Rural,19.7,131.37,83.71,77.81,74.09
+Damoh,Madhya Pradesh,Medical,Rural,69.0,110.45,83.0,87.74,55.15
+Datia,Madhya Pradesh,Medical,Rural,145.2,93.23,77.07,77.43,56.6
+Dewas,Madhya Pradesh,Food,Urban,176.7,87.94,96.3,84.6,37.56
+Dhar,Madhya Pradesh,Manufacturing,Rural,16.1,67.85,70.02,75.26,49.51
+Dindori,Madhya Pradesh,Manufacturing,Urban,86.8,90.99,84.48,82.15,61.06
+Guna,Madhya Pradesh,Construction,Rural,55.4,78.02,82.88,72.97,42.79
+Gwalior,Madhya Pradesh,Services,Rural,187.6,89.95,89.97,77.82,57.92
+Harda,Madhya Pradesh,Food,Rural,169.7,60.56,73.84,90.21,26.65
+Hoshangabad,Madhya Pradesh,Medical,Urban,191.8,53.26,99.44,79.06,39.3
+Indore,Madhya Pradesh,Agriculture,Urban,186.9,90.74,84.54,73.61,64.86
+Jabalpur,Madhya Pradesh,Food,Urban,151.8,65.57,74.86,84.15,35.65
+Jhabua,Madhya Pradesh,IT and Security,Rural,58.9,58.66,93.58,83.3,66.76
+Katni,Madhya Pradesh,Services,Rural,139.6,79.6,82.44,94.07,56.24
+Khandwa,Madhya Pradesh,Medical,Rural,70.1,77.86,74.43,64.28,44.76
+Khargone,Madhya Pradesh,Agriculture,Urban,139.9,98.99,79.51,64.13,38.91
+Maihar,Madhya Pradesh,LifeStyle,Rural,105.9,140.58,89.94,85.45,45.23
+Mandla,Madhya Pradesh,IT and Security,Rural,185.7,67.73,70.57,91.63,58.26
+Mandsaur,Madhya Pradesh,Medical,Urban,139.2,122.54,97.67,91.83,97.6
+Mauganj,Madhya Pradesh,Services,Rural,105.2,54.08,81.27,90.72,30.62
+Morena,Madhya Pradesh,IT and Security,Rural,34.3,86.38,86.28,69.1,60.33
+Narsinghpur,Madhya Pradesh,Services,Rural,101.3,57.54,92.43,64.67,42.05
+Neemuch,Madhya Pradesh,IT and Security,Urban,18.3,77.14,97.63,66.9,86.83
+Niwari,Madhya Pradesh,Services,Rural,81.9,116.26,80.58,84.15,51.98
+Pandhurna,Madhya Pradesh,Agriculture,Urban,29.6,79.29,96.87,64.04,87.12
+Panna,Madhya Pradesh,Construction,Rural,143.2,93.02,73.29,67.39,55.67
+Raisen,Madhya Pradesh,Manufacturing,Rural,133.9,100.96,87.97,83.2,65.49
+Rajgarh,Madhya Pradesh,IT and Security,Rural,81.0,110.1,84.05,62.46,32.54
+Ratlam,Madhya Pradesh,Services,Urban,190.1,101.23,96.81,80.73,66.36
+Rewa,Madhya Pradesh,Medical,Rural,123.1,78.87,98.97,91.53,36.97
+Sagar,Madhya Pradesh,IT and Security,Rural,107.8,104.71,85.92,64.57,81.07
+Satna,Madhya Pradesh,IT and Security,Rural,99.9,65.29,70.48,62.57,75.17
+Sehore,Madhya Pradesh,IT and Security,Urban,175.1,69.43,78.83,93.3,61.29
+Seoni,Madhya Pradesh,Construction,Rural,162.5,125.99,93.95,70.82,39.01
+Shahdol,Madhya Pradesh,Services,Rural,177.2,88.14,74.25,92.68,56.14
+Shajapur,Madhya Pradesh,Services,Urban,61.2,36.47,82.31,69.86,52.4
+Sheopur,Madhya Pradesh,LifeStyle,Urban,98.4,100.88,89.78,70.74,51.1
+Shivpuri,Madhya Pradesh,Services,Rural,34.8,73.42,76.43,75.18,14.19
+Sidhi,Madhya Pradesh,Services,Urban,152.4,137.08,88.26,62.59,45.53
+Singrauli,Madhya Pradesh,Construction,Urban,68.3,65.24,79.93,62.05,53.24
+Tikamgarh,Madhya Pradesh,LifeStyle,Urban,198.5,101.48,81.8,70.36,77.61
+Ujjain,Madhya Pradesh,LifeStyle,Urban,171.3,99.86,90.63,80.33,55.74
+Umaria,Madhya Pradesh,Manufacturing,Urban,138.0,69.21,80.35,93.43,37.58
+Vidisha,Madhya Pradesh,Services,Rural,66.6,35.5,75.2,81.87,58.46
+Ahmednagar,Maharashtra,Construction,Urban,168.6,46.56,73.58,85.54,36.07
+Akola,Maharashtra,LifeStyle,Rural,198.5,69.77,70.85,89.17,41.04
+Amravati,Maharashtra,Medical,Rural,87.8,80.14,98.93,93.41,90.97
+Aurangabad,Maharashtra,Agriculture,Urban,139.4,103.46,87.66,88.1,60.42
+Beed,Maharashtra,Manufacturing,Urban,95.0,75.03,88.47,75.61,23.21
+Bhandara,Maharashtra,LifeStyle,Urban,69.8,64.8,99.55,93.08,45.44
+Buldhana,Maharashtra,Construction,Urban,191.5,72.71,88.54,74.49,52.56
+Chandrapur,Maharashtra,Construction,Rural,114.4,72.81,85.92,94.04,62.0
+Dhule,Maharashtra,IT and Security,Rural,32.1,68.24,80.82,91.23,45.48
+Gadchiroli,Maharashtra,LifeStyle,Rural,159.1,86.8,85.72,71.11,29.69
+Gondia,Maharashtra,Medical,Rural,125.6,28.1,88.33,63.47,24.95
+Hingoli,Maharashtra,LifeStyle,Rural,39.0,96.02,72.29,94.12,47.56
+Jalgaon,Maharashtra,LifeStyle,Urban,109.6,62.86,98.97,73.77,50.17
+Jalna,Maharashtra,Food,Urban,178.9,60.76,73.85,87.87,60.35
+Kolhapur,Maharashtra,Agriculture,Urban,39.9,75.51,95.79,68.67,48.79
+Latur,Maharashtra,Medical,Rural,171.2,54.66,89.95,63.22,25.88
+Mumbai City,Maharashtra,Food,Rural,40.6,77.22,70.87,64.6,53.7
+Mumbai Suburban,Maharashtra,Medical,Rural,62.7,70.18,90.52,66.51,31.07
+Nagpur,Maharashtra,Food,Rural,153.3,83.94,98.56,84.76,52.76
+Nanded,Maharashtra,Manufacturing,Rural,137.3,59.95,80.65,75.99,49.1
+Nandurbar,Maharashtra,LifeStyle,Urban,141.4,96.77,81.29,66.03,69.23
+Nashik,Maharashtra,Agriculture,Urban,183.1,82.65,90.0,72.72,43.26
+Osmanabad,Maharashtra,Manufacturing,Rural,6.1,74.82,80.97,79.1,63.15
+Palghar,Maharashtra,IT and Security,Urban,26.3,67.35,82.75,66.42,43.61
+Parbhani,Maharashtra,Manufacturing,Rural,194.7,73.92,75.76,85.29,73.99
+Pune,Maharashtra,Medical,Rural,29.7,81.87,80.05,94.85,69.73
+Raigad,Maharashtra,Agriculture,Rural,115.9,88.18,97.44,78.88,39.41
+Ratnagiri,Maharashtra,LifeStyle,Rural,126.0,93.14,77.64,63.71,64.88
+Sangli,Maharashtra,Construction,Urban,66.2,73.01,75.38,84.47,70.52
+Satara,Maharashtra,Services,Urban,151.3,77.12,77.62,80.63,58.6
+Sindhudurg,Maharashtra,Construction,Rural,88.8,80.63,86.98,68.76,46.42
+Solapur,Maharashtra,Services,Rural,118.2,43.48,74.75,77.63,48.47
+Thane,Maharashtra,Food,Urban,79.3,52.98,81.88,86.05,36.47
+Wardha,Maharashtra,Manufacturing,Urban,77.9,44.42,83.27,85.16,52.96
+Washim,Maharashtra,LifeStyle,Urban,66.6,40.96,72.16,69.44,64.16
+Yavatmal,Maharashtra,Services,Rural,47.5,114.9,71.21,61.28,39.45
+Bishnupur,Manipur,Agriculture,Rural,124.0,80.95,77.77,92.21,61.31
+Chandel,Manipur,Agriculture,Urban,16.2,53.19,79.25,83.3,58.82
+Churachandpur,Manipur,Medical,Urban,144.1,97.95,75.23,71.73,48.68
+Imphal East,Manipur,Agriculture,Rural,135.8,85.65,74.6,69.93,61.67
+Imphal West,Manipur,IT and Security,Rural,72.4,69.6,97.92,68.31,54.68
+Jiribam,Manipur,Construction,Urban,17.4,44.39,82.35,90.79,58.2
+Kakching,Manipur,Construction,Urban,116.5,41.49,71.67,62.34,71.63
+Kamjong,Manipur,Food,Rural,26.1,79.96,86.25,92.37,71.73
+Kangpokpi,Manipur,Agriculture,Urban,144.9,61.77,99.94,65.39,74.28
+Noney,Manipur,Agriculture,Urban,97.0,59.61,89.26,78.26,57.64
+Pherzawl,Manipur,Manufacturing,Rural,44.4,88.66,94.49,85.76,37.46
+Senapati,Manipur,IT and Security,Urban,140.6,53.44,86.9,75.78,49.6
+Tamenglong,Manipur,Medical,Urban,142.5,69.38,90.35,66.96,39.26
+Tengnoupal,Manipur,Medical,Urban,48.8,82.5,76.13,70.12,50.78
+Thoubal,Manipur,Food,Urban,191.7,80.72,86.95,78.03,51.25
+Ukhrul,Manipur,Food,Urban,13.8,88.46,88.14,92.94,53.02
+East Garo Hills,Meghalaya,Food,Urban,195.1,75.95,83.78,78.14,82.16
+East Jaintia Hills,Meghalaya,Construction,Urban,20.7,92.12,94.42,88.53,58.3
+East Khasi Hills,Meghalaya,Manufacturing,Rural,94.3,64.76,93.57,86.87,3.75
+Mairang,Meghalaya,Medical,Rural,18.6,70.37,99.53,72.13,62.18
+North Garo Hills,Meghalaya,Food,Rural,35.9,87.52,91.87,85.17,39.35
+Ri Bhoi,Meghalaya,Agriculture,Rural,151.2,74.7,84.84,64.67,42.3
+South Garo Hills,Meghalaya,IT and Security,Rural,21.2,88.91,94.59,61.25,51.44
+South West Garo Hills,Meghalaya,Food,Rural,84.2,64.24,73.21,74.61,61.94
+South West Khasi Hills,Meghalaya,Manufacturing,Rural,183.7,83.13,80.77,80.31,52.58
+West Garo Hills,Meghalaya,Agriculture,Urban,34.7,80.59,99.64,64.05,40.7
+West Jaintia Hills,Meghalaya,Construction,Rural,199.1,99.02,93.08,76.67,71.32
+West Khasi Hills,Meghalaya,Food,Rural,173.3,94.36,79.06,89.91,50.02
+Aizawl,Mizoram,Construction,Urban,172.9,70.35,81.33,92.03,57.87
+Champhai,Mizoram,Food,Urban,39.2,86.05,97.23,79.92,32.45
+Hnahthial,Mizoram,Services,Urban,173.8,51.78,90.73,62.19,57.75
+Khawzawl,Mizoram,Agriculture,Rural,78.9,78.01,72.79,87.64,26.48
+Kolasib,Mizoram,Medical,Urban,18.7,68.54,84.45,75.53,45.11
+Lawngtlai,Mizoram,Construction,Rural,196.6,54.14,90.51,61.23,57.74
+Lunglei,Mizoram,Services,Rural,128.3,101.66,70.15,83.97,49.1
+Mamit,Mizoram,Agriculture,Urban,59.1,60.45,77.87,76.75,66.34
+Saiha,Mizoram,Medical,Rural,135.9,92.96,76.89,69.8,59.52
+Saitual,Mizoram,LifeStyle,Rural,197.1,94.01,78.15,69.35,60.73
+Serchhip,Mizoram,Construction,Urban,151.3,80.45,92.03,77.12,37.15
+Chumukedima,Nagaland,IT and Security,Urban,167.5,67.07,83.17,67.63,44.98
+Dimapur,Nagaland,LifeStyle,Rural,94.3,79.75,77.96,88.58,48.29
+Kiphire,Nagaland,IT and Security,Rural,101.0,111.59,82.61,85.92,31.24
+Kohima,Nagaland,Food,Rural,135.8,104.47,85.81,85.36,53.32
+Longleng,Nagaland,Manufacturing,Urban,18.2,100.05,82.99,93.22,45.74
+Mokokchung,Nagaland,LifeStyle,Urban,150.9,58.98,70.38,72.31,38.88
+Mon,Nagaland,Agriculture,Rural,165.7,73.53,98.13,67.07,63.22
+Niuland,Nagaland,Construction,Rural,113.4,84.41,98.38,85.28,63.72
+Noklak,Nagaland,Agriculture,Urban,9.7,110.57,96.51,94.69,61.01
+Peren,Nagaland,Services,Rural,109.5,76.42,95.35,60.5,67.66
+Phek,Nagaland,Manufacturing,Rural,141.1,104.73,84.3,94.5,49.26
+Shamator,Nagaland,Construction,Rural,105.1,48.01,71.51,93.2,55.4
+Tseminyu,Nagaland,Medical,Rural,196.4,55.51,70.61,86.95,26.94
+Tuensang,Nagaland,IT and Security,Rural,73.9,81.23,87.71,60.16,38.29
+Wokha,Nagaland,Manufacturing,Rural,97.8,95.54,97.63,86.98,58.36
+Zunheboto,Nagaland,LifeStyle,Urban,191.9,81.33,88.47,67.45,62.42
+Angul,Odisha,Food,Rural,125.2,72.69,94.23,75.68,56.3
+Balangir,Odisha,Medical,Urban,144.7,104.27,75.2,72.32,68.88
+Balasore,Odisha,Services,Rural,87.6,122.18,82.34,60.99,55.25
+Bargarh,Odisha,Services,Rural,25.7,120.42,76.19,60.53,22.79
+Bhadrak,Odisha,Construction,Urban,5.9,100.28,95.4,74.68,46.09
+Boudh,Odisha,Construction,Rural,115.7,57.85,96.1,89.4,58.89
+Cuttack,Odisha,Medical,Rural,172.9,98.35,93.26,74.22,69.63
+Debagarh,Odisha,Medical,Rural,11.7,52.05,71.84,94.0,53.35
+Dhenkanal,Odisha,Construction,Rural,188.1,44.36,87.55,86.15,33.9
+Gajapati,Odisha,IT and Security,Rural,155.8,120.2,76.16,87.1,49.9
+Ganjam,Odisha,Construction,Rural,57.2,97.4,86.8,91.51,43.01
+Jagatsinghpur,Odisha,Agriculture,Rural,18.9,71.03,85.46,83.02,57.6
+Jajpur,Odisha,Medical,Urban,122.6,59.13,80.84,68.98,24.44
+Jharsuguda,Odisha,Agriculture,Rural,55.0,86.92,86.87,74.13,35.56
+Kalahandi,Odisha,Manufacturing,Urban,151.1,41.61,80.3,88.23,37.59
+Kandhamal,Odisha,LifeStyle,Rural,98.2,98.51,92.32,76.75,58.19
+Kendrapara,Odisha,Construction,Urban,101.1,91.59,96.26,82.3,85.31
+Kendujhar,Odisha,LifeStyle,Rural,132.9,41.7,78.42,75.88,38.05
+Khordha,Odisha,Services,Urban,66.2,71.5,73.23,68.02,59.19
+Koraput,Odisha,Agriculture,Rural,86.9,101.28,85.37,62.35,52.92
+Malkangiri,Odisha,Services,Urban,184.4,90.45,82.7,82.86,72.41
+Mayurbhanj,Odisha,Agriculture,Rural,25.9,92.36,96.65,72.04,39.73
+Nabarangpur,Odisha,Food,Urban,7.1,51.83,83.13,85.48,56.89
+Nayagarh,Odisha,Construction,Rural,46.8,60.74,80.89,78.9,42.99
+Nuapada,Odisha,Medical,Rural,164.0,97.03,71.79,73.29,37.31
+Puri,Odisha,Services,Urban,48.9,79.28,73.73,91.01,45.75
+Rayagada,Odisha,Manufacturing,Urban,33.1,62.53,86.36,90.28,53.02
+Sambalpur,Odisha,Services,Urban,20.2,71.9,84.96,83.53,36.63
+Subarnapur,Odisha,Construction,Urban,139.2,69.37,73.37,76.0,34.68
+Sundergarh,Odisha,LifeStyle,Urban,113.5,68.72,74.9,83.81,60.16
+Karaikal,Puducherry,Manufacturing,Rural,6.2,102.08,72.16,72.46,41.61
+Mahe,Puducherry,LifeStyle,Urban,19.0,54.4,77.85,85.12,74.78
+Puducherry,Puducherry,Medical,Rural,8.1,98.68,90.18,72.82,51.18
+Yanam,Puducherry,Food,Urban,122.6,62.08,74.72,87.83,45.37
+Amritsar,Punjab,LifeStyle,Rural,172.5,72.58,81.67,70.12,28.8
+Barnala,Punjab,Food,Rural,146.6,90.89,99.01,80.62,40.9
+Bathinda,Punjab,Manufacturing,Urban,44.0,81.28,70.6,92.41,82.02
+Faridkot,Punjab,Services,Rural,168.6,108.54,98.89,93.04,49.63
+Fatehgarh Sahib,Punjab,Agriculture,Urban,30.5,78.74,82.47,63.03,48.91
+Fazilka,Punjab,IT and Security,Rural,16.7,76.99,72.71,89.08,7.6
+Firozpur,Punjab,Food,Rural,172.8,98.62,97.71,75.59,65.97
+Gurdaspur,Punjab,IT and Security,Rural,64.8,76.28,89.34,66.89,61.95
+Hoshiarpur,Punjab,IT and Security,Urban,93.0,109.74,89.57,70.73,58.83
+Jalandhar,Punjab,Construction,Rural,153.7,31.56,98.46,75.9,56.38
+Kapurthala,Punjab,Medical,Urban,57.6,64.9,93.7,81.14,74.14
+Ludhiana,Punjab,Services,Rural,197.5,63.07,98.48,66.51,37.12
+Malerkotla,Punjab,Food,Urban,194.3,93.31,72.9,69.02,53.76
+Mansa,Punjab,Food,Rural,45.7,81.22,95.95,93.49,52.29
+Moga,Punjab,Manufacturing,Urban,43.0,98.77,78.28,64.92,73.91
+Mohali,Punjab,Manufacturing,Rural,94.6,81.86,97.34,70.22,55.96
+Muktsar,Punjab,LifeStyle,Urban,117.1,98.12,74.3,94.65,57.67
+Pathankot,Punjab,IT and Security,Urban,108.6,73.88,91.19,71.77,26.37
+Patiala,Punjab,Agriculture,Urban,198.0,59.52,78.18,80.26,49.78
+Rupnagar,Punjab,Services,Rural,170.1,68.42,87.13,63.31,33.45
+Sangrur,Punjab,Medical,Rural,184.7,95.41,96.15,72.37,62.16
+Shaheed Bhagat Singh Nagar,Punjab,Food,Rural,175.5,75.42,70.21,68.67,27.44
+Tarn Taran,Punjab,Agriculture,Rural,38.0,39.19,85.71,89.18,30.1
+Ajmer,Rajasthan,Medical,Rural,24.1,68.66,80.78,90.46,44.7
+Alwar,Rajasthan,Services,Rural,143.2,67.58,72.14,69.62,46.14
+Anupgarh,Rajasthan,Construction,Urban,154.9,53.33,94.8,66.5,55.4
+Balotra,Rajasthan,LifeStyle,Rural,130.3,69.49,83.02,88.86,51.27
+Banswara,Rajasthan,Manufacturing,Rural,55.7,69.09,85.27,88.81,68.44
+Baran,Rajasthan,Agriculture,Rural,43.2,92.38,79.0,72.42,54.73
+Barmer,Rajasthan,Manufacturing,Urban,117.8,81.6,83.27,78.67,42.17
+Beawar,Rajasthan,Manufacturing,Rural,54.3,77.73,83.87,81.59,48.94
+Bharatpur,Rajasthan,Agriculture,Urban,31.1,79.87,74.39,81.56,47.69
+Bhilwara,Rajasthan,Medical,Urban,68.8,77.18,77.19,63.68,82.28
+Bikaner,Rajasthan,Food,Rural,68.3,46.99,79.87,91.03,53.11
+Bundi,Rajasthan,Medical,Rural,152.1,92.24,73.96,86.48,34.84
+Chittorgarh,Rajasthan,Manufacturing,Urban,120.8,115.25,95.3,90.54,65.85
+Churu,Rajasthan,Services,Rural,82.8,100.17,91.51,78.51,39.29
+Dausa,Rajasthan,IT and Security,Rural,23.1,81.88,79.97,61.79,66.63
+Deeg,Rajasthan,Construction,Urban,52.7,70.0,90.68,84.08,24.24
+Dholpur,Rajasthan,Construction,Rural,124.1,72.25,84.65,92.83,56.5
+Didwana Kuchaman,Rajasthan,Medical,Rural,136.6,55.97,90.96,80.97,85.22
+Dudu,Rajasthan,LifeStyle,Rural,147.7,81.91,93.17,91.75,47.02
+Dungarpur,Rajasthan,IT and Security,Urban,36.6,96.96,99.91,60.2,62.0
+Gangapur City,Rajasthan,Services,Urban,79.9,81.69,96.09,74.55,43.57
+Hanumangarh,Rajasthan,Construction,Urban,18.3,85.05,95.54,85.39,55.16
+Jaipur,Rajasthan,Services,Rural,100.2,77.62,96.82,69.07,68.37
+Jaipur Rural,Rajasthan,Agriculture,Urban,93.4,38.21,73.11,69.21,42.01
+Jaisalmer,Rajasthan,LifeStyle,Rural,106.7,75.81,79.96,82.95,66.9
+Jalore,Rajasthan,Medical,Urban,67.0,75.47,85.05,79.98,30.58
+Jhalawar,Rajasthan,IT and Security,Rural,60.7,88.23,78.72,65.6,25.64
+Jhunjhunu,Rajasthan,Food,Urban,57.1,84.62,90.02,69.33,62.34
+Jodhpur,Rajasthan,Construction,Urban,70.8,78.51,99.49,67.06,65.69
+Jodhpur Rural,Rajasthan,Manufacturing,Rural,36.1,59.87,83.74,70.61,49.92
+Karauli,Rajasthan,Food,Rural,107.5,40.27,73.4,77.02,59.96
+Kekri,Rajasthan,Construction,Rural,127.0,90.0,96.63,69.47,68.79
+Khairthal Tijara,Rajasthan,IT and Security,Urban,10.4,87.02,91.78,89.01,77.58
+Kota,Rajasthan,IT and Security,Urban,111.0,85.62,92.77,64.85,47.42
+Kotputli Behror,Rajasthan,Food,Rural,140.1,68.39,79.17,65.38,46.97
+Nagaur,Rajasthan,Manufacturing,Rural,35.6,89.75,70.16,93.78,62.94
+Neem ka Thana,Rajasthan,Food,Rural,153.9,79.72,94.5,71.68,54.02
+Pali,Rajasthan,Food,Urban,32.2,108.45,78.32,69.57,65.79
+Phalodi,Rajasthan,Services,Urban,77.0,62.84,87.11,85.29,36.99
+Pratapgarh,Rajasthan,IT and Security,Rural,50.2,127.43,76.65,89.92,65.45
+Rajsamand,Rajasthan,Agriculture,Urban,115.4,59.9,71.44,79.02,51.72
+Salumbar,Rajasthan,Agriculture,Urban,53.4,76.3,95.82,86.95,59.34
+Sanchore,Rajasthan,Services,Urban,120.3,80.09,92.86,77.17,49.7
+Sawai Madhopur,Rajasthan,IT and Security,Rural,31.7,91.61,88.42,94.25,56.16
+Shahpura,Rajasthan,Construction,Rural,88.0,91.92,84.05,87.23,48.99
+Sikar,Rajasthan,Services,Urban,62.3,92.03,91.65,72.36,72.02
+Sirohi,Rajasthan,LifeStyle,Rural,123.3,78.53,87.45,61.54,10.86
+Sri Ganganagar,Rajasthan,Construction,Urban,17.8,68.74,75.3,69.7,56.79
+Tonk,Rajasthan,Medical,Urban,104.2,78.91,91.41,67.7,61.89
+Udaipur,Rajasthan,IT and Security,Urban,21.9,92.25,90.17,86.04,67.83
+East Sikkim,Sikkim,Medical,Urban,82.7,134.61,71.53,82.75,54.38
+North Sikkim,Sikkim,Services,Urban,77.8,85.16,94.79,83.1,49.43
+Pakyong,Sikkim,Services,Rural,32.2,84.04,98.75,62.99,67.53
+Soreng,Sikkim,Medical,Rural,154.3,78.22,88.05,86.91,39.67
+South Sikkim,Sikkim,Construction,Rural,176.4,75.7,77.41,89.39,29.1
+West Sikkim,Sikkim,LifeStyle,Rural,126.2,89.2,76.16,67.89,60.33
+Ariyalur,Tamil Nadu,Manufacturing,Rural,77.9,79.49,94.76,72.23,42.09
+Chengalpattu,Tamil Nadu,IT and Security,Rural,56.8,83.84,92.88,93.94,63.09
+Chennai,Tamil Nadu,Manufacturing,Rural,94.1,97.28,84.75,94.61,68.95
+Coimbatore,Tamil Nadu,Manufacturing,Rural,11.9,49.8,86.83,60.11,59.23
+Cuddalore,Tamil Nadu,IT and Security,Rural,32.9,77.46,98.26,91.12,45.36
+Dharmapuri,Tamil Nadu,Construction,Rural,103.1,66.78,95.8,68.15,54.6
+Dindigul,Tamil Nadu,IT and Security,Urban,61.4,17.29,86.65,66.19,21.21
+Erode,Tamil Nadu,Food,Rural,151.3,85.0,84.84,71.31,46.74
+Kallakurichi,Tamil Nadu,Construction,Urban,11.7,63.67,94.18,93.43,49.34
+Kanchipuram,Tamil Nadu,Services,Urban,20.3,57.6,82.46,72.3,47.83
+Kanyakumari,Tamil Nadu,IT and Security,Rural,193.6,77.49,87.42,84.25,54.53
+Karur,Tamil Nadu,LifeStyle,Urban,13.8,57.23,89.56,63.71,67.19
+Krishnagiri,Tamil Nadu,Manufacturing,Urban,63.3,52.66,98.3,70.53,43.86
+Madurai,Tamil Nadu,Manufacturing,Urban,87.9,85.66,71.44,76.27,53.88
+Mayiladuthurai,Tamil Nadu,Medical,Rural,185.3,68.82,75.73,91.53,34.15
+Nagapattinam,Tamil Nadu,Agriculture,Rural,53.0,68.68,85.36,61.55,65.21
+Namakkal,Tamil Nadu,Medical,Rural,188.8,79.6,96.37,81.56,75.28
+Nilgiris,Tamil Nadu,Manufacturing,Urban,97.1,82.97,70.83,86.34,21.8
+Perambalur,Tamil Nadu,IT and Security,Rural,13.7,92.04,77.39,92.65,39.65
+Pudukkottai,Tamil Nadu,Services,Rural,113.5,117.3,97.17,71.09,45.89
+Ramanathapuram,Tamil Nadu,Food,Rural,121.8,107.64,97.76,87.84,73.13
+Ranipet,Tamil Nadu,Construction,Urban,119.9,62.75,88.78,73.51,73.12
+Salem,Tamil Nadu,LifeStyle,Urban,153.5,63.29,73.82,79.85,48.49
+Sivaganga,Tamil Nadu,Agriculture,Rural,58.6,64.82,97.53,74.05,85.12
+Tenkasi,Tamil Nadu,LifeStyle,Rural,17.0,67.72,89.5,68.72,48.5
+Thanjavur,Tamil Nadu,Food,Rural,139.1,71.57,87.35,61.04,42.39
+Theni,Tamil Nadu,Agriculture,Urban,63.9,69.65,97.19,66.97,61.01
+Thoothukudi,Tamil Nadu,IT and Security,Rural,146.4,75.58,76.7,76.18,32.53
+Tiruchirappalli,Tamil Nadu,Construction,Rural,47.4,94.86,95.04,88.11,53.04
+Tirunelveli,Tamil Nadu,LifeStyle,Rural,101.5,98.71,75.97,86.28,60.65
+Tirupattur,Tamil Nadu,Medical,Rural,193.5,62.46,75.58,63.35,57.52
+Tiruppur,Tamil Nadu,Construction,Urban,189.4,50.13,70.19,61.13,38.6
+Tiruvallur,Tamil Nadu,Medical,Rural,92.7,74.42,76.23,69.84,35.17
+Tiruvannamalai,Tamil Nadu,IT and Security,Rural,192.4,101.55,92.53,90.48,45.32
+Tiruvarur,Tamil Nadu,Medical,Rural,115.0,155.8,82.83,63.73,60.01
+Vellore,Tamil Nadu,LifeStyle,Urban,44.1,88.63,79.95,77.04,31.06
+Viluppuram,Tamil Nadu,IT and Security,Rural,107.4,93.7,98.93,63.32,18.68
+Virudhunagar,Tamil Nadu,IT and Security,Rural,171.5,89.14,74.68,60.88,49.93
+Adilabad,Telangana,Agriculture,Urban,72.3,59.21,93.55,84.64,44.77
+Bhadradri Kothagudem,Telangana,Medical,Rural,190.9,88.55,85.06,78.55,58.0
+Hanamkonda,Telangana,IT and Security,Urban,89.0,98.02,82.96,71.97,52.87
+Hyderabad,Telangana,LifeStyle,Rural,72.9,79.79,86.53,92.05,30.51
+Jagtial,Telangana,Services,Urban,42.3,81.76,74.29,88.2,49.75
+Jangaon,Telangana,Medical,Rural,63.9,76.17,89.92,77.51,94.75
+Jayashankar,Telangana,LifeStyle,Rural,124.5,100.6,75.47,81.71,44.66
+Jogulamba,Telangana,Services,Urban,23.7,95.27,97.66,60.22,71.98
+Kamareddy,Telangana,Construction,Rural,124.5,87.14,84.04,69.73,39.13
+Karimnagar,Telangana,LifeStyle,Urban,68.4,71.63,72.26,87.64,63.73
+Khammam,Telangana,IT and Security,Rural,42.8,81.19,70.49,87.76,59.45
+Komaram Bheem,Telangana,Manufacturing,Rural,132.6,87.12,82.1,78.97,44.67
+Mahabubabad,Telangana,Food,Rural,43.7,71.83,95.4,69.5,41.91
+Mahbubnagar,Telangana,Manufacturing,Rural,101.5,77.37,85.54,77.67,60.87
+Mancherial,Telangana,Food,Rural,187.9,70.51,99.35,90.29,67.34
+Medak,Telangana,Manufacturing,Rural,170.8,117.37,70.61,90.24,62.23
+Medchal Malkajgiri,Telangana,Services,Rural,107.9,68.12,97.35,76.84,69.41
+Mulugu,Telangana,LifeStyle,Rural,136.0,55.55,72.98,80.89,44.7
+Nagarkurnool,Telangana,Agriculture,Urban,102.7,59.65,71.71,71.76,47.32
+Nalgonda,Telangana,Construction,Urban,38.6,122.16,86.94,82.5,20.61
+Narayanpet,Telangana,Food,Rural,192.3,90.57,74.77,69.74,54.42
+Nirmal,Telangana,IT and Security,Urban,180.8,92.07,76.67,85.61,55.71
+Nizamabad,Telangana,Medical,Rural,53.0,87.36,83.3,75.58,59.29
+Peddapalli,Telangana,Food,Urban,38.3,80.91,84.79,85.48,27.03
+Rajanna Sircilla,Telangana,Food,Urban,101.9,96.15,81.95,79.67,50.34
+Ranga Reddy,Telangana,Construction,Urban,11.0,72.54,93.04,75.55,51.23
+Sangareddy,Telangana,Medical,Rural,53.6,53.08,73.95,69.45,51.12
+Siddipet,Telangana,Medical,Urban,100.0,67.64,76.1,89.05,35.03
+Suryapet,Telangana,Construction,Urban,30.1,86.87,91.69,73.99,47.58
+Vikarabad,Telangana,Food,Rural,130.1,100.18,76.26,60.51,33.49
+Wanaparthy,Telangana,Services,Rural,16.4,76.24,73.27,93.05,73.05
+Warangal,Telangana,Construction,Urban,163.8,112.64,82.46,71.71,37.16
+Yadadri Bhuvanagiri,Telangana,Medical,Rural,58.5,76.52,78.39,66.43,65.95
+Dhalai,Tripura,IT and Security,Urban,21.0,44.27,81.4,79.43,32.28
+Gomati,Tripura,IT and Security,Rural,182.3,50.68,99.44,66.45,63.69
+Khowai,Tripura,LifeStyle,Urban,106.5,93.6,74.45,82.93,37.72
+North Tripura,Tripura,Manufacturing,Rural,56.3,92.46,77.93,74.47,46.7
+Sepahijala,Tripura,Agriculture,Rural,78.4,38.18,83.32,94.85,67.33
+South Tripura,Tripura,Manufacturing,Rural,186.6,106.22,83.47,65.1,63.35
+Unakoti,Tripura,LifeStyle,Rural,158.6,99.82,72.08,63.96,48.18
+West Tripura,Tripura,IT and Security,Rural,88.9,41.91,80.07,67.66,67.32
+Agra,Uttar Pradesh,Manufacturing,Rural,187.4,88.75,93.55,70.68,71.53
+Aligarh,Uttar Pradesh,Manufacturing,Urban,26.2,83.66,80.09,79.46,68.33
+Ambedkar Nagar,Uttar Pradesh,Services,Rural,138.3,51.67,94.85,90.64,78.69
+Amethi,Uttar Pradesh,Food,Rural,141.2,67.48,97.64,72.52,57.3
+Amroha,Uttar Pradesh,Manufacturing,Urban,99.1,100.78,91.5,75.31,48.32
+Auraiya,Uttar Pradesh,Medical,Urban,112.8,71.52,95.55,88.66,36.0
+Ayodhya,Uttar Pradesh,Services,Urban,160.9,115.72,96.2,76.64,64.67
+Azamgarh,Uttar Pradesh,LifeStyle,Urban,40.8,60.78,92.0,74.93,52.81
+Baghpat,Uttar Pradesh,Construction,Rural,112.6,57.96,75.0,65.96,56.86
+Bahraich,Uttar Pradesh,Manufacturing,Rural,13.7,82.77,72.49,74.97,51.31
+Ballia,Uttar Pradesh,Services,Urban,126.7,97.68,99.35,87.27,41.07
+Balrampur,Uttar Pradesh,Food,Urban,17.7,52.49,89.84,60.61,87.99
+Banda,Uttar Pradesh,Medical,Rural,189.1,100.15,95.16,82.85,69.38
+Barabanki,Uttar Pradesh,Food,Rural,185.9,74.89,73.31,82.3,52.69
+Bareilly,Uttar Pradesh,Medical,Urban,129.6,101.37,88.07,71.89,73.47
+Basti,Uttar Pradesh,IT and Security,Urban,198.3,79.42,89.4,60.46,27.13
+Bhadohi,Uttar Pradesh,IT and Security,Urban,32.1,71.93,93.79,84.64,65.88
+Bijnor,Uttar Pradesh,Services,Urban,194.9,65.28,70.6,76.11,58.96
+Budaun,Uttar Pradesh,Medical,Urban,41.4,71.49,80.9,66.24,76.37
+Bulandshahr,Uttar Pradesh,Food,Urban,164.3,72.9,74.45,67.65,28.76
+Chandauli,Uttar Pradesh,Food,Rural,188.9,65.1,71.83,92.09,60.77
+Chitrakoot,Uttar Pradesh,Agriculture,Urban,174.3,75.82,71.97,73.0,42.78
+Deoria,Uttar Pradesh,LifeStyle,Rural,100.5,54.69,74.58,93.96,39.96
+Etah,Uttar Pradesh,Services,Urban,28.7,84.22,75.31,68.04,64.19
+Etawah,Uttar Pradesh,Food,Rural,188.9,56.75,78.26,84.2,45.83
+Farrukhabad,Uttar Pradesh,Food,Rural,102.9,112.38,79.97,76.98,55.31
+Fatehpur,Uttar Pradesh,Agriculture,Rural,103.0,84.33,89.25,66.34,47.49
+Firozabad,Uttar Pradesh,LifeStyle,Rural,99.6,66.44,73.86,66.28,55.32
+Gautam Buddha Nagar,Uttar Pradesh,LifeStyle,Rural,121.5,71.5,88.06,64.4,64.57
+Ghaziabad,Uttar Pradesh,IT and Security,Rural,33.5,93.69,94.32,85.37,84.46
+Ghazipur,Uttar Pradesh,Services,Rural,71.0,103.25,98.01,90.1,62.77
+Gonda,Uttar Pradesh,Construction,Rural,182.0,113.76,97.88,75.93,46.66
+Gorakhpur,Uttar Pradesh,LifeStyle,Rural,83.9,107.98,83.82,76.6,58.42
+Hamirpur,Uttar Pradesh,Construction,Rural,152.4,75.91,75.63,74.77,36.69
+Hapur,Uttar Pradesh,Services,Urban,164.4,83.89,71.09,86.67,34.38
+Hardoi,Uttar Pradesh,Agriculture,Urban,95.5,86.71,82.97,76.41,47.3
+Hathras,Uttar Pradesh,IT and Security,Urban,148.3,82.96,85.37,89.91,38.02
+Jalaun,Uttar Pradesh,Construction,Rural,191.2,57.33,89.91,92.75,67.4
+Jaunpur,Uttar Pradesh,Manufacturing,Rural,14.0,112.07,91.13,66.05,78.62
+Jhansi,Uttar Pradesh,Food,Rural,67.6,48.59,79.38,67.64,64.14
+Kannauj,Uttar Pradesh,Construction,Rural,188.2,38.72,94.78,92.05,49.44
+Kanpur Dehat,Uttar Pradesh,Manufacturing,Urban,13.7,77.29,89.19,63.78,67.76
+Kanpur Nagar,Uttar Pradesh,Services,Urban,185.3,58.97,88.75,83.57,81.06
+Kasganj,Uttar Pradesh,Medical,Urban,129.4,85.67,74.97,84.99,32.95
+Kaushambi,Uttar Pradesh,IT and Security,Rural,88.9,106.0,80.89,66.05,52.48
+Kushinagar,Uttar Pradesh,IT and Security,Rural,12.5,83.37,73.17,71.95,68.66
+Lakhimpur Kheri,Uttar Pradesh,Manufacturing,Urban,6.2,82.6,92.41,60.52,60.98
+Lalitpur,Uttar Pradesh,LifeStyle,Urban,118.1,52.79,75.44,84.06,80.56
+Lucknow,Uttar Pradesh,Medical,Rural,171.8,81.88,77.33,64.81,61.03
+Maharajganj,Uttar Pradesh,Medical,Rural,179.5,51.2,88.33,90.42,67.08
+Mahoba,Uttar Pradesh,Medical,Urban,28.5,118.8,90.69,79.6,78.18
+Mainpuri,Uttar Pradesh,Manufacturing,Rural,182.3,62.7,75.0,81.29,53.9
+Mathura,Uttar Pradesh,Medical,Urban,120.8,50.12,89.04,90.07,56.16
+Mau,Uttar Pradesh,Manufacturing,Rural,112.0,81.23,75.06,60.68,58.82
+Meerut,Uttar Pradesh,LifeStyle,Rural,153.1,70.47,90.75,87.21,31.64
+Mirzapur,Uttar Pradesh,Food,Rural,119.6,114.11,98.93,61.52,59.33
+Moradabad,Uttar Pradesh,Construction,Rural,134.0,87.96,98.54,60.52,32.36
+Muzaffarnagar,Uttar Pradesh,Food,Urban,29.3,76.8,81.45,67.71,59.2
+Pilibhit,Uttar Pradesh,Services,Urban,117.2,72.97,85.57,69.97,56.82
+Pratapgarh,Uttar Pradesh,Manufacturing,Rural,194.6,70.24,72.12,84.36,38.77
+Prayagraj,Uttar Pradesh,Medical,Rural,41.5,86.82,73.51,76.32,70.72
+Raebareli,Uttar Pradesh,Services,Urban,52.2,104.44,70.45,69.18,64.76
+Rampur,Uttar Pradesh,Agriculture,Urban,57.3,60.92,81.25,93.61,52.85
+Saharanpur,Uttar Pradesh,Construction,Urban,97.9,64.93,73.77,75.35,72.67
+Sambhal,Uttar Pradesh,Agriculture,Rural,67.3,45.8,99.0,87.25,41.22
+Sant Kabir Nagar,Uttar Pradesh,Manufacturing,Rural,112.9,72.02,77.3,61.63,60.29
+Shahjahanpur,Uttar Pradesh,LifeStyle,Rural,141.9,57.96,81.79,69.03,63.97
+Shamli,Uttar Pradesh,IT and Security,Rural,51.5,109.11,94.63,76.8,64.64
+Shravasti,Uttar Pradesh,Medical,Rural,196.7,72.31,80.64,86.63,42.5
+Siddharthnagar,Uttar Pradesh,Manufacturing,Rural,98.3,111.05,89.82,60.37,35.18
+Sitapur,Uttar Pradesh,Agriculture,Rural,166.0,85.17,77.33,72.67,53.91
+Sonbhadra,Uttar Pradesh,Manufacturing,Rural,98.3,72.25,87.76,78.94,37.14
+Sultanpur,Uttar Pradesh,Agriculture,Urban,51.7,45.42,89.52,69.07,41.62
+Unnao,Uttar Pradesh,Medical,Rural,175.0,75.34,86.45,92.68,54.77
+Varanasi,Uttar Pradesh,IT and Security,Rural,185.9,82.19,81.03,80.23,43.82
+Almora,Uttarakhand,Medical,Urban,179.4,74.56,85.27,86.17,18.33
+Bageshwar,Uttarakhand,Manufacturing,Rural,156.8,86.8,87.97,86.6,54.41
+Chamoli,Uttarakhand,Services,Rural,97.6,77.81,80.44,73.89,49.5
+Champawat,Uttarakhand,LifeStyle,Urban,77.4,57.13,74.25,85.24,28.55
+Dehradun,Uttarakhand,Services,Urban,125.8,68.29,87.39,93.99,58.05
+Haridwar,Uttarakhand,Services,Rural,139.9,77.66,89.07,76.66,59.41
+Nainital,Uttarakhand,LifeStyle,Rural,18.9,106.09,72.29,77.53,40.25
+Pauri,Uttarakhand,IT and Security,Rural,78.2,28.89,96.39,81.13,80.26
+Pithoragarh,Uttarakhand,Construction,Rural,33.7,99.7,91.08,64.38,57.35
+Rudraprayag,Uttarakhand,Manufacturing,Rural,99.2,68.62,96.59,93.21,37.23
+Tehri,Uttarakhand,Agriculture,Rural,111.0,99.49,71.51,64.83,56.25
+Udham Singh Nagar,Uttarakhand,LifeStyle,Rural,77.9,62.21,76.19,84.33,34.16
+Uttarkashi,Uttarakhand,Agriculture,Rural,85.5,85.28,96.44,89.72,36.24
+Alipurduar,West Bengal,Services,Rural,78.0,123.42,81.78,70.99,47.42
+Bankura,West Bengal,Medical,Rural,87.8,84.14,97.0,78.52,40.49
+Birbhum,West Bengal,Manufacturing,Rural,35.5,77.73,76.2,81.18,63.54
+Cooch Behar,West Bengal,IT and Security,Rural,101.5,62.74,84.12,85.79,15.35
+Dakshin Dinajpur,West Bengal,Food,Urban,188.0,60.58,85.12,86.3,57.51
+Darjeeling,West Bengal,Agriculture,Rural,198.6,52.64,86.99,83.22,42.04
+Hooghly,West Bengal,Manufacturing,Rural,23.5,116.67,70.43,88.58,48.53
+Howrah,West Bengal,Medical,Urban,99.5,35.23,92.6,68.69,68.86
+Jalpaiguri,West Bengal,LifeStyle,Rural,31.8,87.59,88.9,91.38,43.8
+Jhargram,West Bengal,Agriculture,Rural,61.7,92.58,92.2,62.79,36.11
+Kalimpong,West Bengal,Food,Urban,144.3,71.0,94.29,63.59,48.36
+Kolkata,West Bengal,Construction,Rural,104.1,93.1,75.76,63.58,52.84
+Malda,West Bengal,LifeStyle,Urban,7.9,88.47,91.84,65.24,41.73
+Murshidabad,West Bengal,LifeStyle,Rural,154.2,64.74,87.39,87.6,37.48
+Nadia,West Bengal,IT and Security,Rural,70.9,83.1,85.51,76.43,31.89
+North 24 Parganas,West Bengal,Services,Rural,57.7,100.66,75.85,80.72,55.67
+Paschim Bardhaman,West Bengal,IT and Security,Rural,82.3,69.75,92.72,94.51,39.47
+Paschim Medinipur,West Bengal,Construction,Rural,198.7,66.46,88.93,89.44,64.51
+Purba Bardhaman,West Bengal,Manufacturing,Urban,188.8,108.63,75.08,87.46,58.4
+Purba Medinipur,West Bengal,Food,Rural,53.2,32.46,86.2,92.51,39.56
+Purulia,West Bengal,Manufacturing,Rural,82.3,89.62,94.51,83.42,39.4
+South 24 Parganas,West Bengal,Food,Urban,74.1,81.57,82.68,79.27,32.37
+Uttar Dinajpur,West Bengal,Construction,Rural,33.6,87.85,78.15,63.47,45.26
